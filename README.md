@@ -3,8 +3,6 @@
 ### :smiley_cat: I am a PhD student at Stony Brook University
 
 
-## Here are some of my statistics 🚀
-![saba-phoenix's github stats](https://github-readme-stats.vercel.app/api?username=saba-phoenix&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=saba-phoenix&theme=tokyonight" alt="mystreak"/>
 ![saba-phoenix's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saba-phoenix&theme=tokyonight&layout=compact)
 
