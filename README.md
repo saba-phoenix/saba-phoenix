@@ -1,9 +1,10 @@
 <h1 align="center">Hello! I am Saba</h1>
 
-### :smiley_cat: I am a PhD student at Stony Brook University
+### :smiley_cat: I am a CS PhD student at Stony Brook University
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=saba-phoenix&theme=tokyonight" alt="mystreak"/>
+
 ![saba-phoenix's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saba-phoenix&theme=tokyonight&layout=compact)
 
 🌱 I’m currently working with LLMs.
