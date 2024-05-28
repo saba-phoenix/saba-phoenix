@@ -3,9 +3,7 @@
 ### :smiley_cat: I am a PhD student at Stony Brook University
 
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-## By the way here are some of my statistics 🚀
+## Here are some of my statistics 🚀
 ![saba-phoenix's github stats](https://github-readme-stats.vercel.app/api?username=saba-phoenix&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=saba-phoenix&theme=tokyonight" alt="mystreak"/>
 ![saba-phoenix's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saba-phoenix&theme=tokyonight&layout=compact)
