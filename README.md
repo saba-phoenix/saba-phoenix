@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**saba-phoenix/saba-phoenix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
 ### :smiley_cat: I am a student at Stony Brook University
