@@ -3,7 +3,7 @@
 ### :smiley_cat: I am a CS PhD student at Stony Brook University
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saba-phoenix&theme=tokyonight" alt="mystreak"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=saba-phoenix)](https://git.io/streak-stats)
 
 
 🌱 I’m currently working with LLMs.
