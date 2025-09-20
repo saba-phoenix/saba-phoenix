@@ -6,7 +6,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=saba-phoenix)](https://git.io/streak-stats)
 
 
-🌱 I’m currently working with LLMs.
+🌱 I’m currently conducting research on Machine Translation and Constrained Generation within Natural Language Processing.
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"></a>
 
